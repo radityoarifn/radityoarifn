@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**radityoarifn/radityoarifn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Radityo 👋
 
-Here are some ideas to get you started:
+### 🚀 Flagship Project
+- DevProof — A trust hub for developers and crypto projects  
+  https://devproof.site
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 ERP Development
+- Dynamics 365 Business Central Customizations  
+- Dynamics NAV Tools  
+- Odoo Custom Modules
+
+### 📊 Dashboards / BI
+- Power BI Sales Analytics  
+- Power BI Finance Dashboard
+
+### 🌐 Personal Projects
+- LombokTrip — https://lomboktrip.web.id  
+- IdeKita Platform  
+- Jagaraga Demo
+
+### 🧰 Tech Stack
+Next.js • JavaScript • Power BI • Odoo • Dynamics 365 • HTML/CSS
